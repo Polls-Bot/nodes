@@ -1,2 +1,2 @@
-# nodes
+# Nodes
 System Nodes for Polls.
